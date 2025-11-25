@@ -1,1 +1,12 @@
-welcome abhinav
+welcome Abhinav
+
+
+bitbucket Rpository and branch management
+task 1: Repository setup and branching 
+* create a repository on Bitbucket and clone it locally.
+* create a branch development,add a new file,commit the changes,and push it to the development branch on bitbucket
+using GitHub step by step
+
+task 2:Pull request and code review 
+* In Bitbucket ,create a pull request to merge development into main.
+* Assign a reviewer (or self-review) and comment on any changes before merging.
